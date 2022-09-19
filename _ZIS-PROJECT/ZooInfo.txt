@@ -1,0 +1,8 @@
+ASSET;6543210;Tree Top Trek;adventure ropes course for all ages;sport;230.67
+ASSET;5678901;Relaxing River Ride;guided kayak tours;sport;40.00
+ASSET;4567890;Choo Choo At The Zoo;family train ride;sightseeing;65.00
+ANIMAL;9876543;M;Kinkajou;Vivo;01-01-1999;UNKNOWN;N/A;Frugivor;080;060;095;nocturnal
+ANIMAL;8901234;M;Feline;Keith;01-01-2010;01-01-2010;N/A;Carnivore;75;60;105;orange tabby cat
+USER;0123456;0123;12.34;01-01-2001;Programmer;Technical;Mario;1234567890;Owner;9
+USER;1234567;1234;23.45;02-03-2004;General Manager;Operations;Peach;2345678910;Owner;6
+USER;2345678;2345;34.56;03-04-2005;Hourly Employee;Operations;Luigi;3456789101;General Manager;3
